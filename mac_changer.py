@@ -1,4 +1,4 @@
-# 1/usr/bi/env python3
+#!/usr/bin/env python3
 
 from subprocess import call
 import optparse  # Allow creating arguments alongside the script
